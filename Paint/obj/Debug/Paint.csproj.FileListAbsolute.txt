@@ -1,0 +1,11 @@
+E:\!projVis\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+E:\!projVis\Paint\Paint\obj\Debug\Paint.Form1.resources
+E:\!projVis\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\!projVis\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\!projVis\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\!projVis\Paint\Paint\bin\Debug\Paint.exe.config
+E:\!projVis\Paint\Paint\bin\Debug\Paint.exe
+E:\!projVis\Paint\Paint\bin\Debug\Paint.pdb
+E:\!projVis\Paint\Paint\obj\Debug\Paint.exe
+E:\!projVis\Paint\Paint\obj\Debug\Paint.pdb
+E:\!projVis\Paint\Paint\obj\Debug\Paint.Form2.resources
